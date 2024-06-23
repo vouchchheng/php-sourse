@@ -4,6 +4,7 @@
     echo "nothing just testing";
     echo " this is code from developer 2";
     echo "hello php";
+    echo "c++";
     $wifi_name = 'Sunrise';
     $password = '123abc';
     $device = 'Android';
